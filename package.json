@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/tracezone",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trace color zone values and contrast-safe presentation helpers.",
+  "bin": {
+    "tracezone": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/tracezone.git"
+  },
+  "homepage": "https://theworker02.github.io/tracezone/",
+  "keywords": [
+    "trace",
+    "zone",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
